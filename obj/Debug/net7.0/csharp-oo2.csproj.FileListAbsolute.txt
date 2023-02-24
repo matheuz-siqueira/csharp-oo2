@@ -1,0 +1,15 @@
+/home/matheus/Projetos/csharp-oo2/bin/Debug/net7.0/csharp-oo2
+/home/matheus/Projetos/csharp-oo2/bin/Debug/net7.0/csharp-oo2.deps.json
+/home/matheus/Projetos/csharp-oo2/bin/Debug/net7.0/csharp-oo2.runtimeconfig.json
+/home/matheus/Projetos/csharp-oo2/bin/Debug/net7.0/csharp-oo2.dll
+/home/matheus/Projetos/csharp-oo2/bin/Debug/net7.0/csharp-oo2.pdb
+/home/matheus/Projetos/csharp-oo2/obj/Debug/net7.0/csharp-oo2.csproj.AssemblyReference.cache
+/home/matheus/Projetos/csharp-oo2/obj/Debug/net7.0/csharp-oo2.GeneratedMSBuildEditorConfig.editorconfig
+/home/matheus/Projetos/csharp-oo2/obj/Debug/net7.0/csharp-oo2.AssemblyInfoInputs.cache
+/home/matheus/Projetos/csharp-oo2/obj/Debug/net7.0/csharp-oo2.AssemblyInfo.cs
+/home/matheus/Projetos/csharp-oo2/obj/Debug/net7.0/csharp-oo2.csproj.CoreCompileInputs.cache
+/home/matheus/Projetos/csharp-oo2/obj/Debug/net7.0/csharp-oo2.dll
+/home/matheus/Projetos/csharp-oo2/obj/Debug/net7.0/refint/csharp-oo2.dll
+/home/matheus/Projetos/csharp-oo2/obj/Debug/net7.0/csharp-oo2.pdb
+/home/matheus/Projetos/csharp-oo2/obj/Debug/net7.0/csharp-oo2.genruntimeconfig.cache
+/home/matheus/Projetos/csharp-oo2/obj/Debug/net7.0/ref/csharp-oo2.dll
